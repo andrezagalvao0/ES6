@@ -1,0 +1,1 @@
+"use strict";function fn(){var n;n="Hoisting de funcção",console.log(n)}fn();

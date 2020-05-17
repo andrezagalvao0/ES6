@@ -1,0 +1,17 @@
+Ferramenta: Babel(onde posso transpilar, escrevo na versão javaScript mais antiga,
+ele passa para a mais nova) https://babeljs.io
+
+herança:
+    é baseada em protótipos
+    prototype - armazena definições do objeto
+    __proto__  - variavel que aponta para o prototype do tipo q foi criada
+
+proto aponta para um prototype, e esse prototype é criado a partir de um constructor(uma função construtor)
+__proto__ -> prototype -> constructor
+
+
+
+
+
+
+ 
